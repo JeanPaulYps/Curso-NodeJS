@@ -1,0 +1,3 @@
+El estudiante juean
+Con cedula 1
+Se ha matriculado en bolsa de valores, bolsa de valores tiene una duracion de 32 y un valor de 150000
